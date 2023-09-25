@@ -7,4 +7,9 @@ export const styles = StyleSheet.create({
 		alignItems: 'center',
 		justifyContent: 'center',
 	},
+
+	map: {
+		flex: 1,
+		width: '100%',
+	},
 });
