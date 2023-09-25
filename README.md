@@ -8,7 +8,7 @@
 
 ### Screenshot:
 
-  <img src="./assets/screenshot/screen1.png" alt="Screenshot map" width="300">
+  <img src="./assets/Screenshot/screen1.png" alt="Screenshot map" width="300">
   <br>
 
 ## Technologies Used
